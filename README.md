@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaitanyachafle
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning NLP,ML
 - 💞️ I’m looking to collaborate like-minded people in DS
 - 📫 How to reach me (https://www.linkedin.com/in/chaitanya-chafle-a86a034a/)
