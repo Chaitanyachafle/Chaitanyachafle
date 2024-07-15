@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning NLP,ML
 - 💞️ I’m looking to collaborate like-minded people in DS
+- Tableau  projects https://public.tableau.com/app/profile/chaitanya.chafle/vizzes
 - 📫 How to reach me (https://www.linkedin.com/in/chaitanya-chafle-a86a034a/)
 - 😄 Pronouns: Chaitanya
 - ⚡ Fun fact: Transitioning from Associate scientist to Data scientist
